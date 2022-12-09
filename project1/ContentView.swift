@@ -56,6 +56,8 @@ struct ContentView: View {
             }
         }
     }
+    // sdfdsfsfdsfdfs
+    //sdfdsf
     
     var totalPerPerson: Double {
         let peopleCount = Double(numberOfPeople + 2)
